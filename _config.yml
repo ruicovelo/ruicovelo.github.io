@@ -22,8 +22,6 @@ title: Rui Covelo - sailing through bits and bytes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am Rui Covelo. This is my personal blog where I usually write about computers and mostly about computer security.
-  I am and Electronics and Computers Engineer but I usually describe myself as a systems, software and security engineer.
-  I currently work as a security architect at OutSystems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruicovelo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ruicovelo
