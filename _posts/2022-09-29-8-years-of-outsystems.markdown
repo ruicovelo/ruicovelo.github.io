@@ -4,7 +4,7 @@ title:  "8 years of OutSystems"
 date:   2022-09-29 14:33:23 +0100
 categories: blog update
 ---
-Strangely, my last blog post was from when I joined OutSystems. It is strange because I have never had so much to write about since I joined this company. It's been eight years, and I have learned so much.
+Strangely, [my last blog post](https://rcovelo.blogspot.com/2014/12/hello-outsystems.html) was from when I joined OutSystems. It is strange because I have never had so much to write about since I joined this company. It's been eight years, and I have learned so much.
 
 I started as a Cloud Software Engineer. This position felt like the perfect fit for me — someone that had always loved programming but whose career had been spent way more around servers and networks. As a Cloud Software Engineer, I could use both. I worked as an OutSystems developer creating the orchestration software behind provisioning the cloud offering, the servers, networks and all the required infrastructure and software to run OutSystems in the cloud. I worked with Linux and Windows, the OutSystems platform, C#, Java, PowerShell, Bash, Ruby, Python,  Chef and several cloud vendors and technologies.
 
