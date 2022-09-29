@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rui Covelo - sailing through bits and bytes
+title: Rui Covelo
+subtitle: sailing through bits and bytes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am Rui Covelo. This is my personal blog where I usually write about computers and mostly about computer security.
@@ -26,6 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruicovelo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ruicovelo
 github_username:  ruicovelo
+show_excerpts: true
+show_drafts: false
 
 # Build settings
 theme: minima
