@@ -30,6 +30,8 @@ github_username:  ruicovelo
 show_excerpts: true
 show_drafts: false
 
+google_analytics: G-P1GWJ0ZJ0Q
+
 # Build settings
 theme: minima
 plugins:
