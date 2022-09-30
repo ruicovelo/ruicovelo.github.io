@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img width="300" style="float: right;" src="/docs/assets/img/mugshot_wide.jpg">
+<img width="300" style="float: right;" src="/assets/img/mugshot_wide.jpg">
 
 Hi! I am Rui Covelo!
 
