@@ -8,3 +8,19 @@
     font-size: 15px;
     margin-left: 20px;
 }
+
+body {
+    font-family: Avenir;
+}
+
+h2 {
+    margin-top: 50px
+}
+
+#references {
+    border-top-color: gray;
+    border-top-width: 1px;
+    border-top-color: black;
+    border-top-style: solid;
+    margin-top: 50px
+}
