@@ -8,7 +8,7 @@ categories: security, threat modelling
 We first started threat modelling at OutSystems when the whole R&D Team could fit in a large room. Now, the team is 10 times larger and spread around the world. Still, threat modelling remains part of our secure development lifecycle. Here is why we started threat modelling, how we still do it, and the bumpy but invaluable ride it has been.
 
 <a href="https://labs.openai.com/s/FRhZAiJ3ebHxNMaV4k4JmClC">
-<img width="300" src="/assets/img/DALL·E 2022-09-30 17.02.15 - hackers looking at a diagram, digital art.jpg" style="float: right;">
+<img width="300" src="/assets/img/DALLE-20220930-hackers_looking_at_a_diagram.jpg" style="float: right;">
 </a>
 
 Let’s start with the basics. Threat modelling is a structured, iterative approach to identifying, qualifying, and addressing security problems in a system or application based on a four-question framework (Shostack, 2014):
