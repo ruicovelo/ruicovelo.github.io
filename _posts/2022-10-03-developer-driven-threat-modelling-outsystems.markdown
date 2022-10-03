@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Developer-driven threat modelling at OutSystems"
+date:   2022-10-03 09:45:00 +0100
 categories: security, threat modelling
 ---
 
