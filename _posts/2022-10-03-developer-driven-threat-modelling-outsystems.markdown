@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developer-driven threat modelling at OutSystems"
-date:   2022-10-03 09:45:00 +0100
+date:   2022-10-03 08:45:00 +0100
 categories: security, threat modelling
 ---
 
@@ -62,7 +62,7 @@ We started small, focusing on a few teams with clearly defined security issues, 
 Having overcome these two hurdles, the biggest challenge for me was defining _when_threat modelling is relevant. But more on that later.
 
 ## Teaching How to Threat Model
-As I pointed out before, we didn’t have a security team in the early days, and the R&D Team was growing quickly. There’s only so much one security-savvy developer can do, so it was vital to get help from other security-savvy developers and turn them into **security champions **— these champions led by example, teaching and asking questions across all teams. Sometimes asking, “Have you threat modelled?” goes a long way.
+As I pointed out before, we didn’t have a security team in the early days, and the R&D Team was growing quickly. There’s only so much one security-savvy developer can do, so it was vital to get help from other security-savvy developers and turn them into **security champions** — these champions led by example, teaching and asking questions across all teams. Sometimes asking, “Have you threat modelled?” goes a long way.
 
 Our first approach to teaching teams was to create high-level guidelines, point out some training sessions, and let the teams autonomously decide what worked for them in terms of process, format, and risk scoring for prioritisation.
 
@@ -72,7 +72,7 @@ The feedback from developers was that high-level documentation and freedom of ch
 
 Examples include complete and real threat models from other teams and requirements, assumptions, and threat lists that developers can check and use if relevant to their project. [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) can be helpful, but it still confuses some developers that prefer actual threat examples.
 
-However, some teams feel the need for an introductory face-to-face session so that they can ask questions. The help from our security champions and, later on, from security engineers was invaluable in getting the word across. We handled these sessions on an _ad hoc _basis, proactively scheduling meetings with teams who had many questions or promptly accepting meeting requests from those looking for answers.
+However, some teams feel the need for an introductory face-to-face session so that they can ask questions. The help from our security champions and, later on, from security engineers was invaluable in getting the word across. We handled these sessions on an _ad hoc_ basis, proactively scheduling meetings with teams who had many questions or promptly accepting meeting requests from those looking for answers.
 
 
 ## Prioritising Threats
